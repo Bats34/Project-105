@@ -1,0 +1,15 @@
+body {
+    color: purple;
+    font-size: 30px;
+    background-color: coral;
+}
+
+.heading {
+    width: 80%;
+
+}
+#camera {
+    border: 3px dashed purple;
+    width: 350px;
+    height: 300px;
+}
